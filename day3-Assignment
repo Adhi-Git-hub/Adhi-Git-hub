@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DAY-3</title>
+</head>
+<body>
+  
+  
+  <p>ADHITHYA HOTEL</p><br><br>
+    <table>
+      <style type="table/css">
+        table{
+        border-color :#8a0404;
+      }
+    </style>
+        <tr>
+          <th>Numbers </th>
+          <th scope="col">ITEMS</th>
+          <th scope="col">PRICE</th>
+          <th scope="col">VEG/NON VEG</th>
+          <th scope="col">QUANTITY</th>
+        </tr>
+      
+        <tr>
+          <td>1</td>
+          <td>Briyani</td>
+          <td>70Rs</td>
+          <td>veg</td>
+          <td>1</td>
+        </tr>
+      
+        <tr>
+          <td>2</td>
+          <td>chicken-Briyani</td>
+          <td>150Rs</td>
+          <td>non veg</td>
+          <td>1</td>
+        </tr>
+          
+        <tr>
+          <td>3</td>
+          <td>mutton-Briyani</td>
+          <td>160Rs</td>
+          <td>non veg</td>
+          <td>1</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>idly</td>
+            <td>40Rs</td>
+            <td>veg</td>
+            <td>4</td>
+        </tr>
+
+        <tr>
+            <td>5</td>
+            <td>chappathi</td>
+            <td>40Rs</td>
+            <td>veg</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>dosa</td>
+            <td>40Rs</td>
+            <td>veg</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>parrota</td>
+            <td>50Rs</td>
+            <td>veg</td>
+            <td>2</td>
+        </tr>
+        
+      </table>
+      
+</body>
+</html>
